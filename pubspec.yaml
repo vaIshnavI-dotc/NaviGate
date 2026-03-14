@@ -1,0 +1,15 @@
+name: NaviGate
+description: Indoor Navigation App
+
+environment:
+  sdk: '^3.11.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  speech_to_text: ^6.6.0
+  flutter_tts: ^4.0.2
+  
+
+  cupertino_icons: ^1.0.2
+  mobile_scanner: ^5.0.0
