@@ -1,31 +1,61 @@
 {
   "roots": [
-    "NaviGate"
+    "navigate"
   ],
   "packages": [
     {
-      "name": "NaviGate",
-      "version": "0.0.0",
+      "name": "navigate",
+      "version": "1.0.0+1",
       "dependencies": [
         "cupertino_icons",
         "flutter",
-<<<<<<< HEAD
         "flutter_tts",
         "mobile_scanner",
-        "speech_to_text"
-=======
-        "mobile_scanner"
->>>>>>> 643c85ab2ec9e3b3a8f9b9abe15d3f2271a64483
+        "speech_to_text",
+        "vibration"
       ],
       "devDependencies": []
     },
     {
-<<<<<<< HEAD
-      "name": "mobile_scanner",
-      "version": "5.2.3",
+      "name": "vibration",
+      "version": "3.1.8",
       "dependencies": [
         "flutter",
+        "plugin_platform_interface",
+        "vibration_platform_interface"
+      ]
+    },
+    {
+      "name": "flutter_tts",
+      "version": "4.2.5",
+      "dependencies": [
+        "flutter",
+        "flutter_web_plugins"
+      ]
+    },
+    {
+      "name": "speech_to_text",
+      "version": "7.3.0",
+      "dependencies": [
+        "clock",
+        "flutter",
         "flutter_web_plugins",
+        "json_annotation",
+        "meta",
+        "pedantic",
+        "speech_to_text_platform_interface",
+        "speech_to_text_windows",
+        "web"
+      ]
+    },
+    {
+      "name": "mobile_scanner",
+      "version": "7.2.0",
+      "dependencies": [
+        "collection",
+        "flutter",
+        "flutter_web_plugins",
+        "meta",
         "plugin_platform_interface",
         "web"
       ]
@@ -36,8 +66,6 @@
       "dependencies": []
     },
     {
-=======
->>>>>>> 643c85ab2ec9e3b3a8f9b9abe15d3f2271a64483
       "name": "flutter",
       "version": "0.0.0",
       "dependencies": [
@@ -50,10 +78,13 @@
       ]
     },
     {
-<<<<<<< HEAD
-      "name": "web",
-      "version": "1.1.1",
-      "dependencies": []
+      "name": "vibration_platform_interface",
+      "version": "0.1.1",
+      "dependencies": [
+        "device_info_plus",
+        "flutter",
+        "plugin_platform_interface"
+      ]
     },
     {
       "name": "plugin_platform_interface",
@@ -70,93 +101,22 @@
       ]
     },
     {
-=======
-      "name": "vector_math",
-      "version": "2.2.0",
+      "name": "speech_to_text_windows",
+      "version": "1.0.0+beta.8",
+      "dependencies": [
+        "flutter",
+        "speech_to_text_platform_interface"
+      ]
+    },
+    {
+      "name": "web",
+      "version": "1.1.1",
       "dependencies": []
     },
     {
->>>>>>> 643c85ab2ec9e3b3a8f9b9abe15d3f2271a64483
-      "name": "sky_engine",
-      "version": "0.0.0",
-      "dependencies": []
-    },
-    {
-<<<<<<< HEAD
-      "name": "vector_math",
-      "version": "2.2.0",
-      "dependencies": []
-    },
-    {
-=======
->>>>>>> 643c85ab2ec9e3b3a8f9b9abe15d3f2271a64483
       "name": "meta",
       "version": "1.17.0",
       "dependencies": []
-    },
-    {
-      "name": "material_color_utilities",
-      "version": "0.13.0",
-      "dependencies": [
-        "collection"
-      ]
-    },
-    {
-      "name": "collection",
-      "version": "1.19.1",
-      "dependencies": []
-    },
-    {
-      "name": "characters",
-      "version": "1.4.1",
-      "dependencies": []
-    },
-    {
-<<<<<<< HEAD
-      "name": "speech_to_text",
-      "version": "6.6.2",
-      "dependencies": [
-        "clock",
-        "flutter",
-        "flutter_web_plugins",
-        "js",
-        "json_annotation",
-        "meta",
-        "pedantic",
-        "speech_to_text_macos",
-        "speech_to_text_platform_interface"
-      ]
-    },
-    {
-      "name": "speech_to_text_macos",
-      "version": "1.1.0",
-      "dependencies": [
-        "flutter",
-        "plugin_platform_interface",
-        "speech_to_text_platform_interface"
-      ]
-    },
-    {
-      "name": "js",
-      "version": "0.7.2",
-      "dependencies": []
-    },
-    {
-      "name": "speech_to_text_platform_interface",
-      "version": "2.3.0",
-      "dependencies": [
-        "flutter",
-        "meta",
-        "plugin_platform_interface"
-      ]
-    },
-    {
-      "name": "flutter_tts",
-      "version": "4.2.5",
-      "dependencies": [
-        "flutter",
-        "flutter_web_plugins"
-      ]
     },
     {
       "name": "pedantic",
@@ -171,40 +131,103 @@
     {
       "name": "json_annotation",
       "version": "4.11.0",
-=======
-      "name": "cupertino_icons",
-      "version": "1.0.8",
-      "dependencies": []
-    },
-    {
-      "name": "mobile_scanner",
-      "version": "5.2.3",
-      "dependencies": [
-        "flutter",
-        "flutter_web_plugins",
-        "plugin_platform_interface",
-        "web"
-      ]
-    },
-    {
-      "name": "flutter_web_plugins",
-      "version": "0.0.0",
-      "dependencies": [
-        "flutter"
-      ]
-    },
-    {
-      "name": "web",
-      "version": "1.1.1",
-      "dependencies": []
-    },
-    {
-      "name": "plugin_platform_interface",
-      "version": "2.1.8",
->>>>>>> 643c85ab2ec9e3b3a8f9b9abe15d3f2271a64483
       "dependencies": [
         "meta"
       ]
+    },
+    {
+      "name": "speech_to_text_platform_interface",
+      "version": "2.3.0",
+      "dependencies": [
+        "flutter",
+        "meta",
+        "plugin_platform_interface"
+      ]
+    },
+    {
+      "name": "collection",
+      "version": "1.19.1",
+      "dependencies": []
+    },
+    {
+      "name": "sky_engine",
+      "version": "0.0.0",
+      "dependencies": []
+    },
+    {
+      "name": "vector_math",
+      "version": "2.2.0",
+      "dependencies": []
+    },
+    {
+      "name": "material_color_utilities",
+      "version": "0.13.0",
+      "dependencies": [
+        "collection"
+      ]
+    },
+    {
+      "name": "characters",
+      "version": "1.4.1",
+      "dependencies": []
+    },
+    {
+      "name": "device_info_plus",
+      "version": "12.3.0",
+      "dependencies": [
+        "device_info_plus_platform_interface",
+        "ffi",
+        "file",
+        "flutter",
+        "flutter_web_plugins",
+        "meta",
+        "web",
+        "win32",
+        "win32_registry"
+      ]
+    },
+    {
+      "name": "win32_registry",
+      "version": "2.1.0",
+      "dependencies": [
+        "ffi",
+        "meta",
+        "win32"
+      ]
+    },
+    {
+      "name": "win32",
+      "version": "5.15.0",
+      "dependencies": [
+        "ffi"
+      ]
+    },
+    {
+      "name": "file",
+      "version": "7.0.1",
+      "dependencies": [
+        "meta",
+        "path"
+      ]
+    },
+    {
+      "name": "ffi",
+      "version": "2.2.0",
+      "dependencies": []
+    },
+    {
+      "name": "device_info_plus_platform_interface",
+      "version": "7.0.3",
+      "dependencies": [
+        "flutter",
+        "meta",
+        "plugin_platform_interface"
+      ]
+    },
+    {
+      "name": "path",
+      "version": "1.9.1",
+      "dependencies": []
     }
   ],
   "configVersion": 1

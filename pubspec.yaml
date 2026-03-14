@@ -1,5 +1,7 @@
-name: NaviGate
-description: Indoor Navigation App
+name: navigate
+description: Indoor navigation hackathon prototype
+publish_to: 'none'
+version: 1.0.0+1
 
 environment:
   sdk: '^3.11.0'
@@ -7,12 +9,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-<<<<<<< HEAD
-  speech_to_text: ^6.6.0
-  flutter_tts: ^4.0.2
-  
-=======
->>>>>>> 643c85ab2ec9e3b3a8f9b9abe15d3f2271a64483
+  cupertino_icons: ^1.0.8
+  mobile_scanner: ^7.2.0
+  speech_to_text: ^7.3.0
+  flutter_tts: ^4.2.5
+  vibration: ^3.1.8
 
-  cupertino_icons: ^1.0.2
-  mobile_scanner: ^5.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/maps/
