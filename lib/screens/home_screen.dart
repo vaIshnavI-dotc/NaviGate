@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'qr_scan_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
@@ -19,19 +20,41 @@ class HomeScreen extends StatelessWidget {
               const SizedBox(height: 20),
               const Text(
                 'Indoor Navigation System',
-                style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
+                style: TextStyle(
+                  fontSize: 22,
+                  fontWeight: FontWeight.bold,
+                ),
                 textAlign: TextAlign.center,
               ),
               const SizedBox(height: 30),
               ElevatedButton(
-                onPressed: () {},
+                onPressed: () {
+                  Navigator.pushNamed(context, '/qr-scan');
+                },
                 child: const Text('Start Navigation'),
               ),
               const SizedBox(height: 12),
               ElevatedButton(
-                onPressed: () {},
-                child: const Text('Emergency Help'),
+                
+                onPressed: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => const QRScanScreen(),
+                      ),
+                    );
+                  },
+                child: const Text('Start Navigation'),
               ),
+              const SizedBox(height: 12),
+              ElevatedButton(
+                onPressed: () {
+                  ScaffoldMessenger.of(context).showSnackBar(
+                    const SnackBar(content: Text('Emergency Help Triggered')),
+                    );
+                    },
+                    child: const Text('Emergency Help'),
+                    ),
             ],
           ),
         ),
