@@ -7,9 +7,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+<<<<<<< HEAD
   speech_to_text: ^6.6.0
   flutter_tts: ^4.0.2
   
+=======
+>>>>>>> 643c85ab2ec9e3b3a8f9b9abe15d3f2271a64483
 
   cupertino_icons: ^1.0.2
   mobile_scanner: ^5.0.0

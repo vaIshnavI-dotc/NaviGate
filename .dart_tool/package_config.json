@@ -3,6 +3,7 @@
   "packages": [
     {
       "name": "characters",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/Sumeet/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.4.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
@@ -10,28 +11,44 @@
     {
       "name": "clock",
       "rootUri": "file:///C:/Users/Sumeet/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.2",
+=======
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.4.1",
+>>>>>>> 643c85ab2ec9e3b3a8f9b9abe15d3f2271a64483
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "collection",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/Sumeet/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.19.1",
+=======
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.19.1",
+>>>>>>> 643c85ab2ec9e3b3a8f9b9abe15d3f2271a64483
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "cupertino_icons",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/Sumeet/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.8",
+=======
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.8",
+>>>>>>> 643c85ab2ec9e3b3a8f9b9abe15d3f2271a64483
       "packageUri": "lib/",
       "languageVersion": "3.1"
     },
     {
       "name": "flutter",
+<<<<<<< HEAD
       "rootUri": "file:///C:/scr/flutter/flutter/packages/flutter",
+=======
+      "rootUri": "file:///C:/flutter_windows_3.41.4-stable/flutter/packages/flutter",
+>>>>>>> 643c85ab2ec9e3b3a8f9b9abe15d3f2271a64483
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
     {
+<<<<<<< HEAD
       "name": "flutter_tts",
       "rootUri": "file:///C:/Users/Sumeet/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_tts-4.2.5",
       "packageUri": "lib/",
@@ -52,28 +69,45 @@
     {
       "name": "json_annotation",
       "rootUri": "file:///C:/Users/Sumeet/AppData/Local/Pub/Cache/hosted/pub.dev/json_annotation-4.11.0",
+=======
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///C:/flutter_windows_3.41.4-stable/flutter/packages/flutter_web_plugins",
+>>>>>>> 643c85ab2ec9e3b3a8f9b9abe15d3f2271a64483
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
     {
       "name": "material_color_utilities",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/Sumeet/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.13.0",
+=======
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.13.0",
+>>>>>>> 643c85ab2ec9e3b3a8f9b9abe15d3f2271a64483
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
     {
       "name": "meta",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/Sumeet/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.17.0",
+=======
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.17.0",
+>>>>>>> 643c85ab2ec9e3b3a8f9b9abe15d3f2271a64483
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
     {
       "name": "mobile_scanner",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/Sumeet/AppData/Local/Pub/Cache/hosted/pub.dev/mobile_scanner-5.2.3",
+=======
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/mobile_scanner-5.2.3",
+>>>>>>> 643c85ab2ec9e3b3a8f9b9abe15d3f2271a64483
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
+<<<<<<< HEAD
       "name": "pedantic",
       "rootUri": "file:///C:/Users/Sumeet/AppData/Local/Pub/Cache/hosted/pub.dev/pedantic-1.11.1",
       "packageUri": "lib/",
@@ -82,16 +116,25 @@
     {
       "name": "plugin_platform_interface",
       "rootUri": "file:///C:/Users/Sumeet/AppData/Local/Pub/Cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
+=======
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
+>>>>>>> 643c85ab2ec9e3b3a8f9b9abe15d3f2271a64483
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "sky_engine",
+<<<<<<< HEAD
       "rootUri": "file:///C:/scr/flutter/flutter/bin/cache/pkg/sky_engine",
+=======
+      "rootUri": "file:///C:/flutter_windows_3.41.4-stable/flutter/bin/cache/pkg/sky_engine",
+>>>>>>> 643c85ab2ec9e3b3a8f9b9abe15d3f2271a64483
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
     {
+<<<<<<< HEAD
       "name": "speech_to_text",
       "rootUri": "file:///C:/Users/Sumeet/AppData/Local/Pub/Cache/hosted/pub.dev/speech_to_text-6.6.2",
       "packageUri": "lib/",
@@ -112,12 +155,20 @@
     {
       "name": "vector_math",
       "rootUri": "file:///C:/Users/Sumeet/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.2.0",
+=======
+      "name": "vector_math",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.2.0",
+>>>>>>> 643c85ab2ec9e3b3a8f9b9abe15d3f2271a64483
       "packageUri": "lib/",
       "languageVersion": "3.1"
     },
     {
       "name": "web",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/Sumeet/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.1.1",
+=======
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.1.1",
+>>>>>>> 643c85ab2ec9e3b3a8f9b9abe15d3f2271a64483
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -130,7 +181,13 @@
   ],
   "generator": "pub",
   "generatorVersion": "3.11.1",
+<<<<<<< HEAD
   "flutterRoot": "file:///C:/scr/flutter/flutter",
   "flutterVersion": "3.41.4",
   "pubCache": "file:///C:/Users/Sumeet/AppData/Local/Pub/Cache"
+=======
+  "flutterRoot": "file:///C:/flutter_windows_3.41.4-stable/flutter",
+  "flutterVersion": "3.41.4",
+  "pubCache": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache"
+>>>>>>> 643c85ab2ec9e3b3a8f9b9abe15d3f2271a64483
 }
