@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mobile_scanner/mobile_scanner.dart';
+import 'voice_input_screen.dart';
 
 class QRScanScreen extends StatefulWidget {
   const QRScanScreen({super.key});
@@ -29,11 +30,22 @@ class _QRScanScreenState extends State<QRScanScreen> {
 
           _handled = true;
 
-          ScaffoldMessenger.of(context).showSnackBar(
-            SnackBar(content: Text('Scanned: $code')),
-          );
+          final String scanned = code.trim();
 
-          Navigator.pop(context, code);
+          if (scanned == 'building_a' ||
+              scanned == 'https://q.me-qr.com/xcx5l0cc') {
+            Navigator.push(
+              context,
+              MaterialPageRoute(
+                builder: (context) => const VoiceInputScreen(),
+              ),
+            );
+          } else {
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(content: Text('Invalid QR: $scanned')),
+            );
+            _handled = false;
+          }
         },
       ),
     );

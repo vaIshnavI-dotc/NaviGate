@@ -1,13 +1,22 @@
 import 'package:flutter_tts/flutter_tts.dart';
 
 class TTSService {
-  final FlutterTts flutterTts = FlutterTts();
+  final FlutterTts _flutterTts = FlutterTts();
 
-  Future speak(String text) async {
-    await flutterTts.speak(text);
+  Future<void> initTTS() async {
+    await _flutterTts.setLanguage('en-US');
+    await _flutterTts.setSpeechRate(0.45);
+    await _flutterTts.setPitch(1.0);
+    await _flutterTts.setVolume(1.0);
   }
 
-  Future stop() async {
-    await flutterTts.stop();
+  Future<void> speak(String text) async {
+    await _flutterTts.stop();
+    await _flutterTts.speak(text);
+  }
+
+  Future<void> stop() async {
+    await _flutterTts.stop();
   }
 }
+

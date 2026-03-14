@@ -26,13 +26,9 @@ class HomeScreen extends StatelessWidget {
                 ),
                 textAlign: TextAlign.center,
               ),
-              const SizedBox(height: 30),
-              ElevatedButton(
-                onPressed: () {
-                  Navigator.pushNamed(context, '/qr-scan');
-                },
-                child: const Text('Start Navigation'),
-              ),
+              
+             
+              
               const SizedBox(height: 12),
               ElevatedButton(
                 
