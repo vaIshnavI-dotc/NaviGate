@@ -3,169 +3,169 @@
   "packages": [
     {
       "name": "characters",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.4.1",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.4.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "clock",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.2",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.2",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "collection",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.19.1",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.19.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "cupertino_icons",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.8",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.8",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     },
     {
       "name": "device_info_plus",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/device_info_plus-12.3.0",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/device_info_plus-12.3.0",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
     {
       "name": "device_info_plus_platform_interface",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/device_info_plus_platform_interface-7.0.3",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/device_info_plus_platform_interface-7.0.3",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
     {
       "name": "ffi",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.2.0",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.2.0",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
     {
       "name": "file",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/file-7.0.1",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/file-7.0.1",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "flutter",
-      "rootUri": "file:///C:/Users/mptan/Downloads/flutter/packages/flutter",
+      "rootUri": "file:///C:/flutter_windows_3.41.4-stable/flutter/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
     {
       "name": "flutter_tts",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_tts-4.2.5",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_tts-4.2.5",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "flutter_web_plugins",
-      "rootUri": "file:///C:/Users/mptan/Downloads/flutter/packages/flutter_web_plugins",
+      "rootUri": "file:///C:/flutter_windows_3.41.4-stable/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
     {
       "name": "json_annotation",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/json_annotation-4.11.0",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/json_annotation-4.11.0",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
     {
       "name": "material_color_utilities",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.13.0",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.13.0",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
     {
       "name": "meta",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.17.0",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.17.0",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
     {
       "name": "mobile_scanner",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/mobile_scanner-7.2.0",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/mobile_scanner-7.2.0",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
     {
       "name": "path",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.9.1",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.9.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "pedantic",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/pedantic-1.11.1",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/pedantic-1.11.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///C:/Users/mptan/Downloads/flutter/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///C:/flutter_windows_3.41.4-stable/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
     {
       "name": "speech_to_text",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/speech_to_text-7.3.0",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/speech_to_text-7.3.0",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
     {
       "name": "speech_to_text_platform_interface",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/speech_to_text_platform_interface-2.3.0",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/speech_to_text_platform_interface-2.3.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "speech_to_text_windows",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/speech_to_text_windows-1.0.0+beta.8",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/speech_to_text_windows-1.0.0+beta.8",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "vector_math",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.2.0",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.2.0",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     },
     {
       "name": "vibration",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/vibration-3.1.8",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/vibration-3.1.8",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "vibration_platform_interface",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/vibration_platform_interface-0.1.1",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/vibration_platform_interface-0.1.1",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "web",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.1.1",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.1.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "win32",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/win32-5.15.0",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/win32-5.15.0",
       "packageUri": "lib/",
       "languageVersion": "3.8"
     },
     {
       "name": "win32_registry",
-      "rootUri": "file:///C:/Users/mptan/AppData/Local/Pub/Cache/hosted/pub.dev/win32_registry-2.1.0",
+      "rootUri": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache/hosted/pub.dev/win32_registry-2.1.0",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
@@ -178,7 +178,7 @@
   ],
   "generator": "pub",
   "generatorVersion": "3.11.1",
-  "flutterRoot": "file:///C:/Users/mptan/Downloads/flutter",
+  "flutterRoot": "file:///C:/flutter_windows_3.41.4-stable/flutter",
   "flutterVersion": "3.41.4",
-  "pubCache": "file:///C:/Users/mptan/AppData/Local/Pub/Cache"
+  "pubCache": "file:///C:/Users/TEJAS/AppData/Local/Pub/Cache"
 }
